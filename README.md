@@ -19,16 +19,15 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
 <a href="https://instagram.com/_xxsh.jalll_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xxsh.jall_18" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
   <img src="https://imgs.search.brave.com/y-ylzWw8prGgeEn2QbCLizMklfkTtqwgnWO8rH4I7bo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw" alt="PowerBI" width="40" height="40"/> </a> 
-
 <a href="https://https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
   <img src="https://imgs.search.brave.com/F44nyMKIlEV09sbsnQ9ndseaLAatByvmyWeItJVJn0M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zMzE3NjEv/c3FsLWRhdGFiYXNl/LXNxbC1henVyZS5z/dmc" alt="PowerBI" width="40" height="40"/> </a> 
-
+</p>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalkamble01821&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalkamble01821" /> </p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalkamble01821&show_icons=true&locale=en&layout=compact" alt="pranjalkamble01821" /></p>
 
