@@ -31,6 +31,9 @@
   
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
   <img src="https://imgs.search.brave.com/zvjJ5doqGwuNTGlHWNvIUQZBIibVG4MhslyXHuV5ZT4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjViZGNlZjEw/MTRjMGI1ZTQ4OWMu/cG5n" alt="HTML" width="40" height="40"/> </a> 
+
+   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> 
+  <img src="https://imgs.search.brave.com/HKGpfTli_nWF1RsvpCZWumdO7Uen64V2HqtX5zE5em8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0NTUy1Mb2dvLTIw/MTEtNTAweDI4MS5w/bmc" alt="CSS" width="40" height="40"/> </a> 
 </p>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalkamble01821&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalkamble01821" /> </p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalkamble01821&show_icons=true&locale=en&layout=compact" alt="pranjalkamble01821" /></p>
