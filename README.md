@@ -25,8 +25,12 @@
 <p align="left">
   <a href="https://https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
   <img src="https://imgs.search.brave.com/y-ylzWw8prGgeEn2QbCLizMklfkTtqwgnWO8rH4I7bo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw" alt="PowerBI" width="40" height="40"/> </a> 
-<a href="https://https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://imgs.search.brave.com/F44nyMKIlEV09sbsnQ9ndseaLAatByvmyWeItJVJn0M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zMzE3NjEv/c3FsLWRhdGFiYXNl/LXNxbC1henVyZS5z/dmc" alt="PowerBI" width="40" height="40"/> </a> 
+  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://imgs.search.brave.com/IMqaC38v5IAPoLAyKBFkZNpDOqFYopbMTs6J-a-g1Ec/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5naXRlbS5jb20v/cGltZ3MvbS8xOTct/MTk3MzM0M19zcWwt/ZGF0YWJhc2UtaWNv/bi1wbmctdHJhbnNw/YXJlbnQtcG5nLnBu/Zw" alt="MySQL" width="40" height="40"/> </a> 
+  
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
+  <img src="https://imgs.search.brave.com/zvjJ5doqGwuNTGlHWNvIUQZBIibVG4MhslyXHuV5ZT4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjViZGNlZjEw/MTRjMGI1ZTQ4OWMu/cG5n" alt="HTML" width="40" height="40"/> </a> 
 </p>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalkamble01821&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalkamble01821" /> </p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalkamble01821&show_icons=true&locale=en&layout=compact" alt="pranjalkamble01821" /></p>
